@@ -342,4 +342,6 @@ imhist(p_eq2);
 title('Histograma a 2 niveles');
 
 
-
+figure (11)
+%Mosaico de zona A y zona B especificada a un nivel de cauntizcion de 128 
+imshow(f_eq128)
